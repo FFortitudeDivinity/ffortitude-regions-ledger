@@ -1,0 +1,72 @@
+[
+  {
+    "County": "Yorkshire (East/North/West)",
+    "Historic Region": "Yorkshire",
+    "Tag": "REG-YORKSHIRE",
+    "Temple Phase": "Temple 2",
+    "Notes": "York as spiritual anchor"
+  },
+  {
+    "County": "Durham",
+    "Historic Region": "Northumbria",
+    "Tag": "REG-NORTHUMBRIA",
+    "Temple Phase": "Temple 2",
+    "Notes": "Tied to Saint Cuthbert"
+  },
+  {
+    "County": "Northumberland",
+    "Historic Region": "Northumbria",
+    "Tag": "REG-NORTHUMBRIA",
+    "Temple Phase": "Temple 2",
+    "Notes": "Borders Scotland"
+  },
+  {
+    "County": "Lancashire",
+    "Historic Region": "Lancashire",
+    "Tag": "REG-LANCASTRIA",
+    "Temple Phase": "Temple 2",
+    "Notes": "Industrial restoration"
+  },
+  {
+    "County": "Cumberland & Westmorland",
+    "Historic Region": "Cumbria",
+    "Tag": "REG-CUMBRIA",
+    "Temple Phase": "Temple 3",
+    "Notes": "Hill tribes & watchmen"
+  },
+  {
+    "County": "Cheshire",
+    "Historic Region": "Mercia",
+    "Tag": "REG-MERCIA-WEST",
+    "Temple Phase": "Temple 2",
+    "Notes": "Holds western gate"
+  },
+  {
+    "County": "Derbyshire",
+    "Historic Region": "Mercia",
+    "Tag": "REG-MERCIA-CENTRAL",
+    "Temple Phase": "Temple 3",
+    "Notes": "Midlands strength"
+  },
+  {
+    "County": "Nottinghamshire",
+    "Historic Region": "Mercia",
+    "Tag": "REG-MERCIA-CENTRAL",
+    "Temple Phase": "Temple 3",
+    "Notes": "Robin Hood lineage"
+  },
+  {
+    "County": "Staffordshire",
+    "Historic Region": "Mercia",
+    "Tag": "REG-MERCIA-SOUTH",
+    "Temple Phase": "Temple 2",
+    "Notes": "Watchtower to South"
+  },
+  {
+    "County": "Shropshire",
+    "Historic Region": "Marches",
+    "Tag": "REG-MARCHES",
+    "Temple Phase": "Temple 3",
+    "Notes": "Borderlands / warrior camp"
+  }
+]
